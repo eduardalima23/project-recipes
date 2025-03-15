@@ -1,0 +1,4 @@
+venv
+Arquivos ulteis
+__pycache__
+.pytest_cache
